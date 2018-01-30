@@ -23,3 +23,15 @@ npm install --save rxjs zone.js core-js
 installing development dependencies for webpack
 ----------------------------------------
  npm install --save-dev webpack webpack-dev-server angular-router-loader angular2-template-loader awesome-typescript-loader html-loader raw-loader typescript del-cli
+
+
+install the below package merge configurations
+
+ npm install --save-dev webpack-merge
+
+ npm install --save @angular/animations
+
+install below package and put some code in webpack.config.common.ts
+
+
+ npm install --save-dev html-webpack-plugin
