@@ -35,3 +35,10 @@ install below package and put some code in webpack.config.common.ts
 
 
  npm install --save-dev html-webpack-plugin
+
+
+
+
+ inside package.json we need to add a new script  build script
+ and run 
+ npm run build

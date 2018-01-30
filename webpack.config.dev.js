@@ -9,7 +9,7 @@ module.exports = webpackMerge(commonConfig, {
 		path: path.resolve(__dirname, 'dist'),
 		filename: 'bundle.js',
 		chunkFilename: '[id].chunk.js'
-	}
+	},
 	module: {
 		rules: [
 			{
