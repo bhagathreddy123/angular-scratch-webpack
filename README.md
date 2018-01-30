@@ -17,3 +17,9 @@ npm install --save @angular/core @angular/common @angular/compiler @angular/comp
 for resolving dependencies like production and observables ...etc need to run below command.
 
 npm install --save rxjs zone.js core-js
+
+
+
+installing development dependencies for webpack
+----------------------------------------
+ npm install --save-dev webpack webpack-dev-server angular-router-loader angular2-template-loader awesome-typescript-loader html-loader raw-loader typescript del-cli
