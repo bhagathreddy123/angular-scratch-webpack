@@ -42,3 +42,24 @@ install below package and put some code in webpack.config.common.ts
  inside package.json we need to add a new script  build script
  and run 
  npm run build
+
+ we can check lazy loading once enter url inside browser then inside browesr  CTRL + SHIFT + I
+
+ inside network tab 
+ we can check 
+ chunk.js is loading 
+
+
+
+
+ npm run build:prod
+
+ npm install --save-dev @types/core-js @types/node
+npm install
+npm run build:prod
+
+npm install --save-dev lite-server
+
+
+created below bs-config.js file and inside package.json  some code then run 
+npm run serve
